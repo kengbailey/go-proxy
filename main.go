@@ -1,3 +1,8 @@
+The test was not successful
+
+The assets request failed: CDICO0100E: Connection failed: Cmbu sql error: [DV][JDBC Driver][8.0.394] RACF MESSAGE - ICH408I USER(XUFES10 ) GROUP(GR#SERV ) NAME(SERVICE ID ) LOGON/JOB INITIATION - REVOKED USER ACCESS ATTEMPT
+
+
 // Ken Bailey
 // https://gist.github.com/yowu/f7dc34bd4736a65ff28d
 
